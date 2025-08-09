@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Surafel Mengist</h1>
 
 <p align="center">
-  <img src="https://github.com/abyssiniatech.png" alt="Surafel Mengist Profile Picture" width="120" style="border-radius:50%";/>
+  <img src="https://github.com/abyssiniatech.png" alt="Surafel Mengist Profile Picture" width="120" style="border-radius:50%;"/>
 </p>
 
 <h3 align="center">Full Stack Web Developer | Software Engineer | Educator</h3>
