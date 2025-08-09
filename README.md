@@ -71,7 +71,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abyssiniatech" alt="Visitor Badge" />
+  <img src="https://count.getloli.com/get/@abyssiniatech" alt="Visitor Count" />
 </div>
 
 ---
