@@ -76,7 +76,7 @@
   <a href="https://github.com/abyssiniatech" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  **Phone:** [📱 +251 977898771](tel:+251977898771)
+  
 
 </div>
 
