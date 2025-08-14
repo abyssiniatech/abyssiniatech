@@ -17,6 +17,18 @@
 - 🌱 Currently mastering **TypeScript**, **Next.js**, and **modern backend frameworks**.
 - 🎯 Career Goal: Contribute to innovative projects and grow as a **Software Engineer** in an international environment.
 - 📫 Reach me at: **surafelmengist2015@gmail.com**
+  
+
+## ⌨ Typing Speed & Accuracy
+
+[![Monkeytype](https://img.shields.io/badge/Typing-Speed%20Test-orange?logo=monkeytype&logoColor=white)](https://monkeytype.com/profile/Surafel_mengist)
+
+Check out my [Monkeytype Profile](https://monkeytype.com/profile/Surafel_mengist) to see my latest typing speed, accuracy, and improvement over time.
+
+> Current Best: **49 WPM** — Improving every day 🚀
+
+
+
 
 ---
 
