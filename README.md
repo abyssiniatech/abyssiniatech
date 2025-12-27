@@ -4,7 +4,7 @@
   <img src="https://github.com/abyssiniatech.png" width="140" height="140" alt="Surafel Mengist" style="border-radius:100%;" />
 </p>
 
-<h3 align="center">Full-Stack Web Developer | Software Engineer | Educator</h3>
+<h3 align="center">Full‑Stack Developer | TypeScript & Next.js Enthusiast | Building impactful web apps | Open to collaboration</h3>
 
 <p align="center">
   I build scalable web applications, write clean and efficient code, and solve real-world problems through technology.
