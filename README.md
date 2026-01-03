@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | React & TypeScript Enthusiast | Future MSc Candidate
 
-I am a passionate **full-stack developer and educator** with a dual background in **Computer Science** and **Sport Science**. I love building **modern, scalable, and user-friendly web applications** using React, TypeScript, Next.js, and Tailwind CSS. I also have a strong foundation in **SQL, NoSQL, web security, and cloud technologies**.  
+I am a passionate **full-stack developer** with a dual background in **Computer Science** and **Sport Science**. I love building **modern, scalable, and user-friendly web applications** using React, TypeScript, Next.js, and Tailwind CSS.  
 
 ---
 
@@ -11,15 +11,11 @@ I am a passionate **full-stack developer and educator** with a dual background i
 - 🎓 Education: 
   - BSc in **Computer Science** - Rift Valley University  
   - BSc in **Sport Science** - Addis Ababa University  
-- 💼 Experience:  
-  - **Vice Director**, Africa No.2 Elementary School  
-  - **Head of Computer Science Department**, Rift Valley University  
-  - **Final Year Research Head** and **Action Research Specialist**  
 - 🌱 Currently learning: **Advanced React, TypeScript, Next.js, Full-Stack Development Roadmap**  
 
 ---
 
-## 🔧 Skills
+## 🔧 Technical Skills
 
 ### **Frontend**
 - React, TypeScript, React Router, Redux/Context API  
@@ -52,32 +48,32 @@ I am actively seeking:
 - Built complex, reusable forms with TypeScript validation.
 - Implemented custom hooks for state management and form handling.
 
-### 2. **School Management Dashboard**
-- Developed a full-featured dashboard for managing students, teachers, and events.
-- Integrated authentication, role-based access, and reporting features.
-
-### 3. **Portfolio Website**
+### 2. **Full-Stack Portfolio Website**
 - Modern, responsive design with React & Tailwind CSS.
-- Showcases professional projects, achievements, and research work.
+- Showcases projects, skills, and achievements.  
+- [View Live Website](https://my-website-iota-olive-21.vercel.app/)
+
+### 3. **School Management Dashboard (Demo Project)**
+- Developed dashboard with authentication and role-based access.
+- Integrated reporting and CRUD features for students and staff.
 
 ---
 
-## 📫 How to Reach Me
-- 📧 Email: **[your-email@example.com]**  
-- 🌐 LinkedIn: **[Your LinkedIn URL]**  
-- 🐙 GitHub: **[https://github.com/abyssiniatech](https://github.com/abyssiniatech)**  
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surafel-mengist-3a254b261)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-iota-olive-21.vercel.app/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/?_rdc=1&_rdr#)  
 
 ---
 
 ## ⚡ Fun Facts
-- I have **10+ years teaching experience** in elementary schools.  
 - Strong believer in **continuous learning** and real-world projects.  
 - Love balancing **coding, research, and sports activities** for productivity.  
+- Dedicated to building **projects that solve real problems**.  
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abyssiniatech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 🔗 Let’s Connect
+I’m always open to collaboration, mentorship, or exciting opportunities in **web development, tech research, and full-stack projects**.  
 
