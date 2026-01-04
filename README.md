@@ -72,21 +72,3 @@ I am a passionate **full-stack developer** with a dual background in **Computer 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surafel-mengist-3a254b261)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://my-website-iota-olive-21.vercel.app/)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://web.facebook.com/?_rdc=1&_rdr#)  
-
----
-
-## ⚡ Fun Facts
-- Strong believer in **continuous learning** and building **real-world projects**  
-- Enjoy balancing **coding, research, and sports activities** for productivity  
-- Dedicated to **solving real problems with technology**  
-
----
-
-## 💡 Pro Tips for GitHub Profile
-1. Make at least **one commit per day** to start streak  
-2. Push **small, frequent commits** for contributions  
-3. Keep **projects updated** with README.md and screenshots  
-4. Add **live demo links** for all major projects  
-
----
-
