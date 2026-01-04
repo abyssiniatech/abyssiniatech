@@ -2,23 +2,24 @@
 
 ### 🚀 Full-Stack Developer | React & TypeScript Enthusiast | Future MSc Candidate
 
-I am a passionate **full-stack developer** with a dual background in **Computer Science** and **Sport Science**. I love building **modern, scalable, and user-friendly web applications** using React, TypeScript, Next.js, and Tailwind CSS.  
+I am a passionate **full-stack developer** with a dual background in **Computer Science** and **Sport Science**. I enjoy building **modern, scalable, and user-friendly web applications** using **React, TypeScript, Next.js, and Tailwind CSS**.  
 
 ---
 
 ## 👨‍💻 About Me
-- 📍 Location: **Ethiopia**
-- 🎓 Education: 
+- 📍 Location: **Ethiopia**  
+- 🎓 Education:  
   - BSc in **Computer Science** - Rift Valley University  
   - BSc in **Sport Science** - Addis Ababa University  
-- 🌱 Currently learning: **Advanced React, TypeScript, Next.js, Full-Stack Development Roadmap**  
+- 🌱 Currently Learning: **Advanced React, TypeScript, Next.js, Full-Stack Development Roadmap**  
+- 💡 Interests: Full-Stack Development, Web Architecture, Tech Research, and UX/UI Design  
 
 ---
 
 ## 🔧 Technical Skills
 
 ### **Frontend**
-- React, TypeScript, React Router, Redux/Context API  
+- React, TypeScript, React Router, Redux / Context API  
 - HTML5, CSS3, Tailwind CSS, Bootstrap  
 - Responsive & Mobile-First Design  
 
@@ -34,28 +35,35 @@ I am a passionate **full-stack developer** with a dual background in **Computer 
 
 ---
 
-## 📈 Open to Opportunities
-I am actively seeking:  
-- Fully-funded **Master of Science (MSc) scholarships** in Computer Science or Sport Science  
-- **Internships or full-time roles** in Full-Stack Development  
-- Opportunities in **Europe, Canada, Australia, New Zealand, and the USA**  
-
----
-
 ## 🌟 Projects Highlights
 
 ### 1. **Dynamic React Forms with Validation**
-- Built complex, reusable forms with TypeScript validation.
-- Implemented custom hooks for state management and form handling.
+- Built reusable forms with **TypeScript validation**  
+- Implemented **custom hooks** for state management and form handling
 
 ### 2. **Full-Stack Portfolio Website**
-- Modern, responsive design with React & Tailwind CSS.
-- Showcases projects, skills, and achievements.  
+- Modern, responsive UI with **React & Tailwind CSS**  
+- Showcases projects, skills, and achievements  
 - [View Live Website](https://my-website-iota-olive-21.vercel.app/)
 
 ### 3. **School Management Dashboard (Demo Project)**
-- Developed dashboard with authentication and role-based access.
-- Integrated reporting and CRUD features for students and staff.
+- Dashboard with **authentication** and **role-based access**  
+- Integrated reporting and CRUD features for students and staff  
+
+---
+
+## 📈 GitHub Stats & Streak
+
+### GitHub Stats
+![Surafel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abyssiniatech&show_icons=true&count_private=true&theme=tokyonight)
+
+### GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=abyssiniatech&theme=tokyonight)
+
+> ⚠️ Notes:
+> - Ensure this README is in the repository named **`abyssiniatech`**  
+> - Commits must use the **same email linked to GitHub**  
+> - Daily commits will start building your streak  
 
 ---
 
@@ -68,12 +76,17 @@ I am actively seeking:
 ---
 
 ## ⚡ Fun Facts
-- Strong believer in **continuous learning** and real-world projects.  
-- Love balancing **coding, research, and sports activities** for productivity.  
-- Dedicated to building **projects that solve real problems**.  
+- Strong believer in **continuous learning** and building **real-world projects**  
+- Enjoy balancing **coding, research, and sports activities** for productivity  
+- Dedicated to **solving real problems with technology**  
 
 ---
 
-## 🔗 Let’s Connect
-I’m always open to collaboration, mentorship, or exciting opportunities in **web development, tech research, and full-stack projects**.  
+## 💡 Pro Tips for GitHub Profile
+1. Make at least **one commit per day** to start streak  
+2. Push **small, frequent commits** for contributions  
+3. Keep **projects updated** with README.md and screenshots  
+4. Add **live demo links** for all major projects  
+
+---
 
