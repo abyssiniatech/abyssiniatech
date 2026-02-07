@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Surafel Mengist 👋</h1>
-<h3 align="center"> Full-Stack Developer | React & TypeScript Enthusiast | Future MSc Candidate</h3>
+<h3 align="center">Full-Stack Developer | React & TypeScript Enthusiast | Future MSc Candidate</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/surafel-mengist-3a254b261">
@@ -25,7 +25,7 @@
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
 I’m a **passionate Full-Stack Developer** from **Ethiopia** with dual degrees in **Computer Science** and **Sport Science**.  
 I love building **modern, scalable, and user-friendly web applications** using **React, TypeScript, Next.js, and Tailwind CSS**.  
@@ -57,28 +57,110 @@ const SurafelMengist = {
   currentlyLearning: ["Advanced React", "Next.js App Router", "TypeScript in Production", "Cloud & Deployment"],
   mindset: "Learn deeply. Build consistently. Grow globally."
 };
- Tech Stack & Tools
-<div align="center"> <table> <tr> <td align="center"><strong>💻 Languages</strong></td> <td align="center"><strong>⚡ Frameworks & Libraries</strong></td> <td align="center"><strong>🗄️ Databases</strong></td> <td align="center"><strong>🔧 Tools</strong></td> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" height="40"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" height="40"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" height="40"/> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,figma" height="40"/> </td> </tr> </table> </div>
-🌟 Project Highlights
-Project	Tech Stack	Highlights	Live / Demo
-Dynamic React Forms	React, TypeScript, Tailwind	Custom hooks & validation	-
-Portfolio Website	React, Tailwind, Vercel	Modern responsive UI	Live
-School Management Dashboard	React, Node.js, Express, MongoDB	Role-based access, CRUD, reports	-
-📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abyssiniatech&show_icons=true&count_private=true&theme=tokyonight" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyssiniatech&theme=tokyonight" height="180"/> </p>
-🏆 Competitive Programming
-<div align="center"> <table> <tr> <td align="center"><strong>💻 CodeChef</strong></td> <td align="center"><strong> HackerRank</strong></td> <td align="center"><strong>📚 Codeforces</strong></td> <td align="center"><strong>🏅 LeetCode</strong></td> </tr> <tr> <td align="center"> <a href="https://www.codechef.com/users/abyssinatech"> <img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=Codechef&logoColor=white" height="35"/> </a> </td> <td align="center"> <a href="https://www.hackerrank.com/abyssinatech"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/> </a> </td> <td align="center"> <a href="https://codeforces.com/profile/abyssinatech"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35"/> </a> </td> <td align="center"> <a href="https://leetcode.com/abyssinatech/"> <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/> </a> </td> </tr> </table> </div>
-🎖 GitHub Trophies & Activity
-<div align="center"> <img width="660" src="https://github-trophies.vercel.app/?username=abyssiniatech&theme=matrix"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abyssiniatech&radius=16&theme=tokyonight&area=true" height="300" alt="activity graph"/> </div>
- Career Vision
-🎓 Fully Funded MSc in Computer Science / Software Engineering
 
-💻 Professional Full-Stack Engineer
 
-🌐 Contributor to Open Source Projects
+## 🛠️ Tech Stack & Tools
 
- Build impactful digital products for global users
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>💻 Languages</strong></td>
+      <td align="center"><strong>⚡ Frameworks & Libraries</strong></td>
+      <td align="center"><strong>🗄️ Databases</strong></td>
+      <td align="center"><strong>🔧 Tools</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" height="40"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" height="40"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" height="40"/>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,figma" height="40"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-📫 Connect with Me
+---
 
-<div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg"/> </div> ```
+## 🌟 Project Highlights
+
+| Project | Tech Stack | Highlights | Live / Demo |
+|---------|------------|------------|------------|
+| Dynamic React Forms | React, TypeScript, Tailwind | Custom hooks & validation | - |
+| Portfolio Website | React, Tailwind, Vercel | Modern responsive UI | [Live](https://my-website-iota-olive-21.vercel.app/) |
+| School Management Dashboard | React, Node.js, Express, MongoDB | Role-based access, CRUD, reports | - |
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abyssiniatech&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abyssiniatech&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>💻 CodeChef</strong></td>
+      <td align="center"><strong>🎯 HackerRank</strong></td>
+      <td align="center"><strong>📚 Codeforces</strong></td>
+      <td align="center"><strong>🏅 LeetCode</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.codechef.com/users/abyssinatech">
+          <img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=Codechef&logoColor=white" height="35"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/abyssinatech">
+          <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://codeforces.com/profile/abyssinatech">
+          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/abyssinatech/">
+          <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎖 GitHub Trophies & Activity
+
+<div align="center">
+  <img width="660" src="https://github-trophies.vercel.app/?username=abyssiniatech&theme=matrix"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abyssiniatech&radius=16&theme=tokyonight&area=true" height="300" alt="activity graph"/>
+</div>
+
+---
+
+##  Career Vision
+
+- 🎓 Fully Funded MSc in Computer Science / Software Engineering  
+- 💻 Professional Full-Stack Engineer  
+- 🌐 Contributor to Open Source Projects  
+- 🚀 Build impactful digital products for global users  
+- 📫 Connect with Me  
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</div>
