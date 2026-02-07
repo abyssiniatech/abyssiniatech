@@ -7,19 +7,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/surafel-mengist-3a254b261">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
   <a href="https://my-website-iota-olive-21.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="25" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="25"/>
   </a>
   <a href="https://github.com/abyssiniatech">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
   </a>
   <a href="https://www.monkeytype.com/profile/abyssinatech">
-    <img src="https://img.shields.io/badge/Monkeytype-8B5CF6?style=for-the-badge&logoColor=white" height="25" alt="Monkeytype"/>
+    <img src="https://img.shields.io/badge/Monkeytype-8B5CF6?style=for-the-badge&logoColor=white" height="25"/>
   </a>
   <a href="https://leetcode.com/abyssinatech/">
-    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="25" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="25"/>
   </a>
 </div>
 
@@ -27,37 +27,17 @@
 
 ## 👨‍💻 About Me
 
-I’m a **passionate Full-Stack Developer** from **Ethiopia** with dual degrees in **Computer Science** and **Sport Science**.  
+I’m a **Full-Stack Developer** from **Ethiopia** with dual degrees in **Computer Science** and **Sport Science**.  
 I love building **modern, scalable, and user-friendly web applications** using **React, TypeScript, Next.js, and Tailwind CSS**.  
 
-I am currently focused on:
+I focus on:
 
 - Advanced Full-Stack Development  
-- Contributing to Open Source  
+- Open Source Contributions  
 - Competitive Programming  
 - Preparing for a Fully Funded MSc Abroad  
 
 ---
-
-```ts
-const SurafelMengist = {
-  location: "📍 Ethiopia",
-  role: "Full-Stack Developer | Future MSc Candidate",
-  education: [
-    "BSc in Computer Science – Rift Valley University",
-    "BSc in Sport Science – Addis Ababa University"
-  ],
-  expertise: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap", "TypeScript"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB", "SQL"]
-  },
-  tools: ["Git", "GitHub", "Docker", "AWS", "Vercel", "Netlify", "Postman", "Figma"],
-  interests: ["Full-Stack Development", "Web Architecture", "UX/UI Design", "Competitive Programming"],
-  currentlyLearning: ["Advanced React", "Next.js App Router", "TypeScript in Production", "Cloud & Deployment"],
-  mindset: "Learn deeply. Build consistently. Grow globally."
-};
-
 
 ## 🛠️ Tech Stack & Tools
 
@@ -88,17 +68,17 @@ const SurafelMengist = {
 
 ---
 
-## 🌟 Project Highlights
+## 🌟 Projects
 
-| Project | Tech Stack | Highlights | Live / Demo |
-|---------|------------|------------|------------|
+| Project | Tech Stack | Highlights | Demo |
+|---------|------------|------------|------|
 | Dynamic React Forms | React, TypeScript, Tailwind | Custom hooks & validation | - |
 | Portfolio Website | React, Tailwind, Vercel | Modern responsive UI | [Live](https://my-website-iota-olive-21.vercel.app/) |
 | School Management Dashboard | React, Node.js, Express, MongoDB | Role-based access, CRUD, reports | - |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abyssiniatech&show_icons=true&count_private=true&theme=tokyonight" height="180"/>
@@ -110,36 +90,10 @@ const SurafelMengist = {
 ## 🏆 Competitive Programming
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>💻 CodeChef</strong></td>
-      <td align="center"><strong>🎯 HackerRank</strong></td>
-      <td align="center"><strong>📚 Codeforces</strong></td>
-      <td align="center"><strong>🏅 LeetCode</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.codechef.com/users/abyssinatech">
-          <img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=Codechef&logoColor=white" height="35"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.hackerrank.com/abyssinatech">
-          <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://codeforces.com/profile/abyssinatech">
-          <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/abyssinatech/">
-          <img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.codechef.com/users/abyssinatech"><img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=Codechef&logoColor=white" height="35"/></a>
+  <a href="https://www.hackerrank.com/abyssinatech"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"/></a>
+  <a href="https://codeforces.com/profile/abyssinatech"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=red" height="35"/></a>
+  <a href="https://leetcode.com/abyssinatech/"><img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" height="35"/></a>
 </div>
 
 ---
@@ -148,18 +102,19 @@ const SurafelMengist = {
 
 <div align="center">
   <img width="660" src="https://github-trophies.vercel.app/?username=abyssiniatech&theme=matrix"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abyssiniatech&radius=16&theme=tokyonight&area=true" height="300" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abyssiniatech&radius=16&theme=tokyonight&area=true" height="300"/>
 </div>
 
 ---
 
 ##  Career Vision
 
-- 🎓 Fully Funded MSc in Computer Science / Software Engineering  
-- 💻 Professional Full-Stack Engineer  
-- 🌐 Contributor to Open Source Projects  
-- 🚀 Build impactful digital products for global users  
-- 📫 Connect with Me  
+<div align="center">
+  <img src="https://img.shields.io/badge/Fully%20Funded%20MSc-4caf50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full-Stack%20Engineer-2196f3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-f44336?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Global%20Impact-ff9800?style=for-the-badge"/>
+</div>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg"/>
