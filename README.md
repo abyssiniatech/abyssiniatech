@@ -37,6 +37,8 @@ I focus on:
 - Competitive Programming  
 - Preparing for a Fully Funded MSc Abroad  
 
+💡 **Follow me on GitHub** to see my latest projects, tutorials, and coding journey! ⭐
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -76,6 +78,8 @@ I focus on:
 | Portfolio Website | React, Tailwind, Vercel | Modern responsive UI | [Live](https://my-website-iota-olive-21.vercel.app/) |
 | School Management Dashboard | React, Node.js, Express, MongoDB | Role-based access, CRUD, reports | - |
 
+💡 **Tip:** Check pinned repos for more projects and learning materials.
+
 ---
 
 ## 📊 GitHub Stats
@@ -107,7 +111,7 @@ I focus on:
 
 ---
 
-##  Career Vision
+## 🎯 Career Vision
 
 <div align="center">
   <img src="https://img.shields.io/badge/Fully%20Funded%20MSc-4caf50?style=for-the-badge"/>
@@ -118,4 +122,11 @@ I focus on:
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg"/>
+</div>
+
+---
+
+<div align="center">
+⭐ If you like my work, **follow me on GitHub** to see my projects, tutorials, and coding journey!  
+<a href="https://github.com/abyssiniatech"><img src="https://img.shields.io/badge/Follow-abyssiniatech-000000?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
 </div>
