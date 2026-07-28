@@ -91,7 +91,7 @@ I focus on:
 
 ---
 
-## 🏆 Competitive Programming
+##  Competitive Programming
 
 <div align="center">
   <a href="https://www.codechef.com/users/abyssinatech"><img src="https://img.shields.io/badge/CodeChef-1F8ACB?style=for-the-badge&logo=Codechef&logoColor=white" height="35"/></a>
